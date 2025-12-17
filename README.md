@@ -1,5 +1,6 @@
 # ASRI Lobby Dataset
 A real-world dataset collected by LDS laboratory through data collection at the Seoul National University ASRI building lobby.
+The dataset can be downloaded from [here](https://drive.google.com/file/d/1kaFhJ4DPkuDrDtiOj8x3kQoYFkAhjVzQ/view).
 ## Overview
 **◦ Autonomous Pedestrian trajectory Data Collection**
 - Collection of data gathered from three different lidars positioned strategically within the lobby to record all moving obstacles within the lobby without blind spots.
