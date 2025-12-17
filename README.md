@@ -34,7 +34,7 @@ If you use **this datasets** in your research, please use the following BibTeX e
 @misc{joonhohan2025robot,
   author =       {Joonho Han},
   title =        {SNU-ASRI dataset},
-  howpublished = {\url{[http://github.com/hubtime-kmbae/CAML](https://github.com/CORE-SNU/Robot-Navigation-Dataset)}},
+  howpublished = {\url{[https://github.com/CORE-SNU/Pedestrian-Trajectory-Dataset](https://github.com/CORE-SNU/Pedestrian-Trajectory-Dataset)}},
   year =         {2025}
 }
 ```
